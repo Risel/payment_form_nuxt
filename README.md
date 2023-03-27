@@ -1,5 +1,6 @@
 # Форма оплаты
 
+Изначально по ошибке делал на nuxt2, прошлый репозиторий с историей коммитов можно посмотреть по ссылке ``https://github.com/Risel/payment_form``
 ## Setup
 
 Make sure to install the dependencies:
